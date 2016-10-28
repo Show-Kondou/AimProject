@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1000013641001606}
+  m_IsPrefabParent: 1
+--- !u!1 &1000013641001606
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000010174010982}
+  - 114: {fileID: 114000013705879488}
+  m_Layer: 0
+  m_Name: HumanUI
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4000010174010982
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013641001606}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 100}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &114000013705879488
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013641001606}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41f1b549fff75db43861f7452833c518, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_humanAlive:
+  - {fileID: 1000011872293510, guid: 101df6501edacbb44b3e7e3f172db000, type: 2}
+  - {fileID: 1000012006496366, guid: 97b24c9e7a9a20e42b023e7ea0258454, type: 2}
+  - {fileID: 1000013708200910, guid: 59dd007009cdd1b409f2e6535c7a5236, type: 2}
+  m_humanDead:
+  - {fileID: 1000010944851300, guid: 994eb76e2d206864c8e20b0089f8353d, type: 2}
+  - {fileID: 1000011052838926, guid: 72596140916cea049bebdb847a46ac7a, type: 2}
+  - {fileID: 1000014213094320, guid: aaf7353f47777ff45a5e18cb9582698f, type: 2}
+  m_candys:
+  - {fileID: 1000012553817576, guid: d043c072eb247ee46855630951ee17e6, type: 2}
+  - {fileID: 1000010285355824, guid: 6434fc5a49b0bbb4fb30c1dc6ae0a594, type: 2}
+  - {fileID: 1000012833688610, guid: 8e045203746ffc747a085681ea0c87ed, type: 2}
+  m_candyBacks:
+  - {fileID: 1000012941131676, guid: c5942ea873cc6b743832ce2056f893b9, type: 2}
+  - {fileID: 1000011208091350, guid: 5c4dfa116e2622e45b6f3303ec444fa6, type: 2}
+  - {fileID: 1000010004566166, guid: b1386ad504041fc4ba46c105f06f51e1, type: 2}
+  m_candle: {fileID: 1000013062836824, guid: 91f165a827be2bf4d86f7d6daf61282e, type: 2}
+  m_candleBack: {fileID: 1000012554643976, guid: 6526e2e5d891df04395f9c2acca951c6,
+    type: 2}

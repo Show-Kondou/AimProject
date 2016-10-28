@@ -1,0 +1,958 @@
+fileFormatVersion: 2
+guid: a7b5932b5213e3342a082b69c77574fc
+timeCreated: 1476849246
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: f1
+    100002: f2
+    100004: f3
+    100006: f4
+    100008: f5
+    100010: //RootNode
+    100012: kubi
+    100014: L_h1
+    100016: L_h2
+    100018: L_h3
+    100020: L_waki
+    100022: main
+    100024: pCube2
+    100026: pCube3
+    100028: pCube4
+    100030: pCylinder1
+    100032: pCylinder2
+    100034: pCylinder3
+    100036: pCylinder4
+    100038: polySurface1
+    100040: polySurface10
+    100042: polySurface12
+    100044: polySurface15
+    100046: polySurface16
+    100048: polySurface17
+    100050: polySurface18
+    100052: polySurface3
+    100054: polySurface4
+    100056: polySurface5
+    100058: polySurface6
+    100060: polySurface8
+    100062: R_h1
+    100064: R_h2
+    100066: R_h3
+    100068: R_waki
+    100070: se1
+    100072: se2
+    100074: t
+    100076: transform1
+    100078: transform10
+    100080: transform12
+    100082: transform14
+    100084: transform15
+    100086: transform16
+    100088: transform17
+    100090: transform18
+    100092: transform19
+    100094: transform3
+    100096: transform4
+    100098: transform5
+    100100: transform6
+    100102: transform7
+    100104: transform8
+    100106: transform9
+    400000: f1
+    400002: f2
+    400004: f3
+    400006: f4
+    400008: f5
+    400010: //RootNode
+    400012: kubi
+    400014: L_h1
+    400016: L_h2
+    400018: L_h3
+    400020: L_waki
+    400022: main
+    400024: pCube2
+    400026: pCube3
+    400028: pCube4
+    400030: pCylinder1
+    400032: pCylinder2
+    400034: pCylinder3
+    400036: pCylinder4
+    400038: polySurface1
+    400040: polySurface10
+    400042: polySurface12
+    400044: polySurface15
+    400046: polySurface16
+    400048: polySurface17
+    400050: polySurface18
+    400052: polySurface3
+    400054: polySurface4
+    400056: polySurface5
+    400058: polySurface6
+    400060: polySurface8
+    400062: R_h1
+    400064: R_h2
+    400066: R_h3
+    400068: R_waki
+    400070: se1
+    400072: se2
+    400074: t
+    400076: transform1
+    400078: transform10
+    400080: transform12
+    400082: transform14
+    400084: transform15
+    400086: transform16
+    400088: transform17
+    400090: transform18
+    400092: transform19
+    400094: transform3
+    400096: transform4
+    400098: transform5
+    400100: transform6
+    400102: transform7
+    400104: transform8
+    400106: transform9
+    4300000: polySurface18
+    4300002: polySurface16
+    7400000: Move
+    7400002: Dush
+    7400004: Wait
+    7400006: Atk
+    7400008: Bunshin
+    7400010: Dmg
+    9500000: //RootNode
+    13700000: polySurface18
+    13700002: polySurface16
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Move
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: main
+        weight: 1
+      - path: main/f1
+        weight: 1
+      - path: main/f1/f2
+        weight: 1
+      - path: main/f1/f2/f3
+        weight: 1
+      - path: main/f1/f2/f3/f4
+        weight: 1
+      - path: main/f1/f2/f3/f4/f5
+        weight: 1
+      - path: main/se1
+        weight: 1
+      - path: main/se1/se2
+        weight: 1
+      - path: main/se1/se2/kubi
+        weight: 1
+      - path: main/se1/se2/kubi/t
+        weight: 1
+      - path: main/se1/se2/L_h1
+        weight: 1
+      - path: main/se1/se2/L_h1/L_h2
+        weight: 1
+      - path: main/se1/se2/L_h1/L_h2/L_h3
+        weight: 1
+      - path: main/se1/se2/L_waki
+        weight: 1
+      - path: main/se1/se2/R_h1
+        weight: 1
+      - path: main/se1/se2/R_h1/R_h2
+        weight: 1
+      - path: main/se1/se2/R_h1/R_h2/R_h3
+        weight: 1
+      - path: main/se1/se2/R_waki
+        weight: 1
+      - path: pCube2
+        weight: 1
+      - path: pCube2/transform1
+        weight: 1
+      - path: pCube3
+        weight: 1
+      - path: pCube3/transform16
+        weight: 1
+      - path: pCylinder1
+        weight: 1
+      - path: pCylinder1/transform3
+        weight: 1
+      - path: pCylinder2
+        weight: 1
+      - path: pCylinder2/transform4
+        weight: 1
+      - path: pCylinder3
+        weight: 1
+      - path: pCylinder3/transform6
+        weight: 1
+      - path: pCylinder4
+        weight: 1
+      - path: pCylinder4/transform5
+        weight: 1
+      - path: polySurface1
+        weight: 1
+      - path: polySurface1/transform12
+        weight: 1
+      - path: polySurface3
+        weight: 1
+      - path: polySurface3/transform7
+        weight: 1
+      - path: polySurface4
+        weight: 1
+      - path: polySurface4/transform8
+        weight: 1
+      - path: polySurface5
+        weight: 1
+      - path: polySurface5/transform10
+        weight: 1
+      - path: polySurface6
+        weight: 1
+      - path: polySurface6/transform9
+        weight: 1
+      - path: polySurface8
+        weight: 1
+      - path: polySurface8/transform14
+        weight: 1
+      - path: polySurface10
+        weight: 1
+      - path: polySurface10/transform15
+        weight: 1
+      - path: polySurface12
+        weight: 1
+      - path: polySurface12/polySurface17
+        weight: 1
+      - path: polySurface12/polySurface17/transform19
+        weight: 1
+      - path: polySurface16
+        weight: 1
+      - path: polySurface18
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Dush
+      takeName: Take 001
+      firstFrame: 31
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: main
+        weight: 1
+      - path: main/f1
+        weight: 1
+      - path: main/f1/f2
+        weight: 1
+      - path: main/f1/f2/f3
+        weight: 1
+      - path: main/f1/f2/f3/f4
+        weight: 1
+      - path: main/f1/f2/f3/f4/f5
+        weight: 1
+      - path: main/se1
+        weight: 1
+      - path: main/se1/se2
+        weight: 1
+      - path: main/se1/se2/kubi
+        weight: 1
+      - path: main/se1/se2/kubi/t
+        weight: 1
+      - path: main/se1/se2/L_h1
+        weight: 1
+      - path: main/se1/se2/L_h1/L_h2
+        weight: 1
+      - path: main/se1/se2/L_h1/L_h2/L_h3
+        weight: 1
+      - path: main/se1/se2/L_waki
+        weight: 1
+      - path: main/se1/se2/R_h1
+        weight: 1
+      - path: main/se1/se2/R_h1/R_h2
+        weight: 1
+      - path: main/se1/se2/R_h1/R_h2/R_h3
+        weight: 1
+      - path: main/se1/se2/R_waki
+        weight: 1
+      - path: pCube2
+        weight: 1
+      - path: pCube2/transform1
+        weight: 1
+      - path: pCube3
+        weight: 1
+      - path: pCube3/transform16
+        weight: 1
+      - path: pCylinder1
+        weight: 1
+      - path: pCylinder1/transform3
+        weight: 1
+      - path: pCylinder2
+        weight: 1
+      - path: pCylinder2/transform4
+        weight: 1
+      - path: pCylinder3
+        weight: 1
+      - path: pCylinder3/transform6
+        weight: 1
+      - path: pCylinder4
+        weight: 1
+      - path: pCylinder4/transform5
+        weight: 1
+      - path: polySurface1
+        weight: 1
+      - path: polySurface1/transform12
+        weight: 1
+      - path: polySurface3
+        weight: 1
+      - path: polySurface3/transform7
+        weight: 1
+      - path: polySurface4
+        weight: 1
+      - path: polySurface4/transform8
+        weight: 1
+      - path: polySurface5
+        weight: 1
+      - path: polySurface5/transform10
+        weight: 1
+      - path: polySurface6
+        weight: 1
+      - path: polySurface6/transform9
+        weight: 1
+      - path: polySurface8
+        weight: 1
+      - path: polySurface8/transform14
+        weight: 1
+      - path: polySurface10
+        weight: 1
+      - path: polySurface10/transform15
+        weight: 1
+      - path: polySurface12
+        weight: 1
+      - path: polySurface12/polySurface17
+        weight: 1
+      - path: polySurface12/polySurface17/transform19
+        weight: 1
+      - path: polySurface16
+        weight: 1
+      - path: polySurface18
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Wait
+      takeName: Take 001
+      firstFrame: 51
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: main
+        weight: 1
+      - path: main/f1
+        weight: 1
+      - path: main/f1/f2
+        weight: 1
+      - path: main/f1/f2/f3
+        weight: 1
+      - path: main/f1/f2/f3/f4
+        weight: 1
+      - path: main/f1/f2/f3/f4/f5
+        weight: 1
+      - path: main/se1
+        weight: 1
+      - path: main/se1/se2
+        weight: 1
+      - path: main/se1/se2/kubi
+        weight: 1
+      - path: main/se1/se2/kubi/t
+        weight: 1
+      - path: main/se1/se2/L_h1
+        weight: 1
+      - path: main/se1/se2/L_h1/L_h2
+        weight: 1
+      - path: main/se1/se2/L_h1/L_h2/L_h3
+        weight: 1
+      - path: main/se1/se2/L_waki
+        weight: 1
+      - path: main/se1/se2/R_h1
+        weight: 1
+      - path: main/se1/se2/R_h1/R_h2
+        weight: 1
+      - path: main/se1/se2/R_h1/R_h2/R_h3
+        weight: 1
+      - path: main/se1/se2/R_waki
+        weight: 1
+      - path: pCube2
+        weight: 1
+      - path: pCube2/transform1
+        weight: 1
+      - path: pCube3
+        weight: 1
+      - path: pCube3/transform16
+        weight: 1
+      - path: pCylinder1
+        weight: 1
+      - path: pCylinder1/transform3
+        weight: 1
+      - path: pCylinder2
+        weight: 1
+      - path: pCylinder2/transform4
+        weight: 1
+      - path: pCylinder3
+        weight: 1
+      - path: pCylinder3/transform6
+        weight: 1
+      - path: pCylinder4
+        weight: 1
+      - path: pCylinder4/transform5
+        weight: 1
+      - path: polySurface1
+        weight: 1
+      - path: polySurface1/transform12
+        weight: 1
+      - path: polySurface3
+        weight: 1
+      - path: polySurface3/transform7
+        weight: 1
+      - path: polySurface4
+        weight: 1
+      - path: polySurface4/transform8
+        weight: 1
+      - path: polySurface5
+        weight: 1
+      - path: polySurface5/transform10
+        weight: 1
+      - path: polySurface6
+        weight: 1
+      - path: polySurface6/transform9
+        weight: 1
+      - path: polySurface8
+        weight: 1
+      - path: polySurface8/transform14
+        weight: 1
+      - path: polySurface10
+        weight: 1
+      - path: polySurface10/transform15
+        weight: 1
+      - path: polySurface12
+        weight: 1
+      - path: polySurface12/polySurface17
+        weight: 1
+      - path: polySurface12/polySurface17/transform19
+        weight: 1
+      - path: polySurface16
+        weight: 1
+      - path: polySurface18
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Atk
+      takeName: Take 001
+      firstFrame: 81
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: main
+        weight: 1
+      - path: main/f1
+        weight: 1
+      - path: main/f1/f2
+        weight: 1
+      - path: main/f1/f2/f3
+        weight: 1
+      - path: main/f1/f2/f3/f4
+        weight: 1
+      - path: main/f1/f2/f3/f4/f5
+        weight: 1
+      - path: main/se1
+        weight: 1
+      - path: main/se1/se2
+        weight: 1
+      - path: main/se1/se2/kubi
+        weight: 1
+      - path: main/se1/se2/kubi/t
+        weight: 1
+      - path: main/se1/se2/L_h1
+        weight: 1
+      - path: main/se1/se2/L_h1/L_h2
+        weight: 1
+      - path: main/se1/se2/L_h1/L_h2/L_h3
+        weight: 1
+      - path: main/se1/se2/L_waki
+        weight: 1
+      - path: main/se1/se2/R_h1
+        weight: 1
+      - path: main/se1/se2/R_h1/R_h2
+        weight: 1
+      - path: main/se1/se2/R_h1/R_h2/R_h3
+        weight: 1
+      - path: main/se1/se2/R_waki
+        weight: 1
+      - path: pCube2
+        weight: 1
+      - path: pCube2/transform1
+        weight: 1
+      - path: pCube3
+        weight: 1
+      - path: pCube3/transform16
+        weight: 1
+      - path: pCylinder1
+        weight: 1
+      - path: pCylinder1/transform3
+        weight: 1
+      - path: pCylinder2
+        weight: 1
+      - path: pCylinder2/transform4
+        weight: 1
+      - path: pCylinder3
+        weight: 1
+      - path: pCylinder3/transform6
+        weight: 1
+      - path: pCylinder4
+        weight: 1
+      - path: pCylinder4/transform5
+        weight: 1
+      - path: polySurface1
+        weight: 1
+      - path: polySurface1/transform12
+        weight: 1
+      - path: polySurface3
+        weight: 1
+      - path: polySurface3/transform7
+        weight: 1
+      - path: polySurface4
+        weight: 1
+      - path: polySurface4/transform8
+        weight: 1
+      - path: polySurface5
+        weight: 1
+      - path: polySurface5/transform10
+        weight: 1
+      - path: polySurface6
+        weight: 1
+      - path: polySurface6/transform9
+        weight: 1
+      - path: polySurface8
+        weight: 1
+      - path: polySurface8/transform14
+        weight: 1
+      - path: polySurface10
+        weight: 1
+      - path: polySurface10/transform15
+        weight: 1
+      - path: polySurface12
+        weight: 1
+      - path: polySurface12/polySurface17
+        weight: 1
+      - path: polySurface12/polySurface17/transform19
+        weight: 1
+      - path: polySurface16
+        weight: 1
+      - path: polySurface18
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Bunshin
+      takeName: Take 001
+      firstFrame: 91
+      lastFrame: 110
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: main
+        weight: 1
+      - path: main/f1
+        weight: 1
+      - path: main/f1/f2
+        weight: 1
+      - path: main/f1/f2/f3
+        weight: 1
+      - path: main/f1/f2/f3/f4
+        weight: 1
+      - path: main/f1/f2/f3/f4/f5
+        weight: 1
+      - path: main/se1
+        weight: 1
+      - path: main/se1/se2
+        weight: 1
+      - path: main/se1/se2/kubi
+        weight: 1
+      - path: main/se1/se2/kubi/t
+        weight: 1
+      - path: main/se1/se2/L_h1
+        weight: 1
+      - path: main/se1/se2/L_h1/L_h2
+        weight: 1
+      - path: main/se1/se2/L_h1/L_h2/L_h3
+        weight: 1
+      - path: main/se1/se2/L_waki
+        weight: 1
+      - path: main/se1/se2/R_h1
+        weight: 1
+      - path: main/se1/se2/R_h1/R_h2
+        weight: 1
+      - path: main/se1/se2/R_h1/R_h2/R_h3
+        weight: 1
+      - path: main/se1/se2/R_waki
+        weight: 1
+      - path: pCube2
+        weight: 1
+      - path: pCube2/transform1
+        weight: 1
+      - path: pCube3
+        weight: 1
+      - path: pCube3/transform16
+        weight: 1
+      - path: pCylinder1
+        weight: 1
+      - path: pCylinder1/transform3
+        weight: 1
+      - path: pCylinder2
+        weight: 1
+      - path: pCylinder2/transform4
+        weight: 1
+      - path: pCylinder3
+        weight: 1
+      - path: pCylinder3/transform6
+        weight: 1
+      - path: pCylinder4
+        weight: 1
+      - path: pCylinder4/transform5
+        weight: 1
+      - path: polySurface1
+        weight: 1
+      - path: polySurface1/transform12
+        weight: 1
+      - path: polySurface3
+        weight: 1
+      - path: polySurface3/transform7
+        weight: 1
+      - path: polySurface4
+        weight: 1
+      - path: polySurface4/transform8
+        weight: 1
+      - path: polySurface5
+        weight: 1
+      - path: polySurface5/transform10
+        weight: 1
+      - path: polySurface6
+        weight: 1
+      - path: polySurface6/transform9
+        weight: 1
+      - path: polySurface8
+        weight: 1
+      - path: polySurface8/transform14
+        weight: 1
+      - path: polySurface10
+        weight: 1
+      - path: polySurface10/transform15
+        weight: 1
+      - path: polySurface12
+        weight: 1
+      - path: polySurface12/polySurface17
+        weight: 1
+      - path: polySurface12/polySurface17/transform19
+        weight: 1
+      - path: polySurface16
+        weight: 1
+      - path: polySurface18
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Dmg
+      takeName: Take 001
+      firstFrame: 111
+      lastFrame: 114
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: main
+        weight: 1
+      - path: main/f1
+        weight: 1
+      - path: main/f1/f2
+        weight: 1
+      - path: main/f1/f2/f3
+        weight: 1
+      - path: main/f1/f2/f3/f4
+        weight: 1
+      - path: main/f1/f2/f3/f4/f5
+        weight: 1
+      - path: main/se1
+        weight: 1
+      - path: main/se1/se2
+        weight: 1
+      - path: main/se1/se2/kubi
+        weight: 1
+      - path: main/se1/se2/kubi/t
+        weight: 1
+      - path: main/se1/se2/L_h1
+        weight: 1
+      - path: main/se1/se2/L_h1/L_h2
+        weight: 1
+      - path: main/se1/se2/L_h1/L_h2/L_h3
+        weight: 1
+      - path: main/se1/se2/L_waki
+        weight: 1
+      - path: main/se1/se2/R_h1
+        weight: 1
+      - path: main/se1/se2/R_h1/R_h2
+        weight: 1
+      - path: main/se1/se2/R_h1/R_h2/R_h3
+        weight: 1
+      - path: main/se1/se2/R_waki
+        weight: 1
+      - path: pCube2
+        weight: 1
+      - path: pCube2/transform1
+        weight: 1
+      - path: pCube3
+        weight: 1
+      - path: pCube3/transform16
+        weight: 1
+      - path: pCylinder1
+        weight: 1
+      - path: pCylinder1/transform3
+        weight: 1
+      - path: pCylinder2
+        weight: 1
+      - path: pCylinder2/transform4
+        weight: 1
+      - path: pCylinder3
+        weight: 1
+      - path: pCylinder3/transform6
+        weight: 1
+      - path: pCylinder4
+        weight: 1
+      - path: pCylinder4/transform5
+        weight: 1
+      - path: polySurface1
+        weight: 1
+      - path: polySurface1/transform12
+        weight: 1
+      - path: polySurface3
+        weight: 1
+      - path: polySurface3/transform7
+        weight: 1
+      - path: polySurface4
+        weight: 1
+      - path: polySurface4/transform8
+        weight: 1
+      - path: polySurface5
+        weight: 1
+      - path: polySurface5/transform10
+        weight: 1
+      - path: polySurface6
+        weight: 1
+      - path: polySurface6/transform9
+        weight: 1
+      - path: polySurface8
+        weight: 1
+      - path: polySurface8/transform14
+        weight: 1
+      - path: polySurface10
+        weight: 1
+      - path: polySurface10/transform15
+        weight: 1
+      - path: polySurface12
+        weight: 1
+      - path: polySurface12/polySurface17
+        weight: 1
+      - path: polySurface12/polySurface17/transform19
+        weight: 1
+      - path: polySurface16
+        weight: 1
+      - path: polySurface18
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
